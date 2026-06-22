@@ -57,18 +57,3 @@ Here is the list of certificates, ordered reverse-chronologically (most recent f
 
 > [!NOTE]  
 > This training has been funded in whole or in part with Federal funds from the National Institute on Drug Abuse, National Institutes of Health, Department of Health and Human Services, under Contract No. 75N95024D00037.
-
----
-
-### 📂 Repository Structure
-
-```directory
-Certificates/
-├── discovery-boulevard/
-│   └── molecular-docking-from-theory-to-application.pdf
-├── nida-clinical-trials-network/
-│   └── good-clinical-practice.pdf
-└── README.md
-```
-
-*All files and folders are named with lowercase letters and hyphens to follow SEO best practices, ensuring optimal discovery and indexing by Google and other search engines.*
