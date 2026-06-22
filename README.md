@@ -2,8 +2,6 @@
 
 Welcome to my digital certificate portfolio. This repository houses verified certificates, course completion records, and workshop credentials that document my continuous learning and professional development.
 
-Each certificate is organized into search-engine-optimized folders mapped to the issuing organization for clean indexing and direct verification.
-
 ---
 
 ## 📊 Summary of Credentials
