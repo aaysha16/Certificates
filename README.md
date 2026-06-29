@@ -28,67 +28,36 @@ A verified repository of professional certifications, research presentations, la
 
 ---
 
-## Credential Catalog
+## Certificate Catalog
 
 ### 1. Clinical & Research Training
 
-* **Good Clinical Practice (GCP)** — [nida-clinical-trials-network/good-clinical-practice.pdf](./nida-clinical-trials-network/good-clinical-practice.pdf)
-  * **Details:** NIDA Clinical Trials Network | Version 6, 6-Hour Course | Issued: June 10, 2026 | Expires: June 10, 2029
-  * **Authority:** N. Robrina Walker, PhD (Principal Investigator) | NIH Contract 75N95024D00037
-  * **Focus:** IRB regulations, informed consent, participant safety, adverse events, quality assurance, Investigational New Drugs (IND).
-
-* **Molecular Docking: From Theory to Application** — [discovery-boulevard/molecular-docking-from-theory-to-application.pdf](./discovery-boulevard/molecular-docking-from-theory-to-application.pdf)
-  * **Details:** Discovery Boulevard (UDYAM-MN-05-0023854) | 2-Day Online Workshop | Issued: June 19–20, 2026
-  * **Authority:** Credential ID: `DB/MD/19/06/26/0090` | Dr. Angamba P (Co-Founder)
-  * **Focus:** Receptor/ligand preparation, grid parameter files, docking execution, virtual screening, result validation, molecular visualization.
-
-* **HPLC Industrial Visit & Hands-on Training** — [arbro-pharmaceuticals/hplc-industrial-visit-hands-on-training-completion.jpeg](./arbro-pharmaceuticals/hplc-industrial-visit-hands-on-training-completion.jpeg)
-  * **Details:** Arbro Pharmaceuticals Pvt. Ltd. (Analytical Division) | Issued: March 28, 2026
-  * **Authority:** In collaboration with IPA Delhi State Branch | Dr. Neha S Arora
-  * **Focus:** HPLC chromatographic operations, analytical laboratory instrumentation, pharmaceutical quality control.
+| Credential & Organizer | Date | Verification Details | Core Skills & Focus | Document Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Good Clinical Practice (GCP)**<br>_NIDA Clinical Trials Network_ | June 10, 2026<br>*(Expires June 2029)* | Version 6 (6-Hour course)<br>PI: N. Robrina Walker, PhD<br>NIH Contract: 75N95024D00037 | IRB regulations, Informed Consent, Participant Safety, Adverse Events, QA, Investigational New Drugs (IND) | [📄 View PDF](./nida-clinical-trials-network/good-clinical-practice.pdf) |
+| **Molecular Docking: Theory & Application**<br>_Discovery Boulevard_ | June 19–20, 2026 | Credential ID: `DB/MD/19/06/26/0090`<br>Signatory: Dr. Angamba P | Receptor/ligand preparation, grid parameter files, docking execution, virtual screening, interaction visualization | [📄 View PDF](./discovery-boulevard/molecular-docking-from-theory-to-application.pdf) |
+| **HPLC Industrial Visit & Hands-on Training**<br>_Arbro Pharmaceuticals_ | March 28, 2026 | In collaboration with IPA Delhi State Branch<br>Signatory: Dr. Neha S Arora | High Performance Liquid Chromatography (HPLC) operations, instrumentation, pharmaceutical quality control | [🖼️ View Image](./arbro-pharmaceuticals/hplc-industrial-visit-hands-on-training-completion.jpeg) |
 
 ---
 
 ### 2. Conferences, Presentations & Competitions
 
-* **SECON 2025 Poster Presenter** — [society-for-ethnopharmacology-secon2025/poster-presenter-recognition.jpeg](./society-for-ethnopharmacology-secon2025/poster-presenter-recognition.jpeg)
-  * **Details:** 12th Convention of Society for Ethnopharmacology & International Conference (SECON 2025) | October 30–31, 2025
-  * **Authority:** Prof Pulok K. Mukherjee (SFE India) | Prof Sayeed Ahmad (Director CoE UM, Jamia Hamdard)
-  * **Focus:** Academic poster presentation on *“Traditional Medicine - Ancient & Modern Concordance”*.
-
-* **SECON 2025 Delegate Participation** — [society-for-ethnopharmacology-secon2025/delegate-participation.jpeg](./society-for-ethnopharmacology-secon2025/delegate-participation.jpeg)
-  * **Details:** 12th Convention of Society for Ethnopharmacology (SECON 2025) | October 30–31, 2025
-  * **Authority:** Prof Pulok K. Mukherjee (SFE India) | Prof Sayeed Ahmad (Director CoE UM, Jamia Hamdard)
-  * **Focus:** Engagement with research in drug standardization, botanical safety, and traditional medicine.
-
-* **Unani Aahar Short Article Writing Competition** — [jamia-hamdard-coeum/unani-aahar-article-writing-participation.jpeg](./jamia-hamdard-coeum/unani-aahar-article-writing-participation.jpeg)
-  * **Details:** Centre of Excellence in Unani Medicine, Jamia Hamdard | Issued: September 25, 2025
-  * **Authority:** Prof Sayeed Ahmad (Director CoE)
-  * **Focus:** Literature review and writing on traditional dietetics (Unani Aahar) concepts.
+| Role & Event / Competition | Organizer | Date | Verification & Signatory | Focus & Contribution | Document Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Poster Presenter**<br>_12th Convention (SECON 2025)_ | Jamia Hamdard & Society for Ethnopharmacology India | October 30–31, 2025 | Prof Pulok K. Mukherjee (SFE)<br>Prof Sayeed Ahmad (CoE UM) | Presented research poster on *“Traditional Medicine - Ancient & Modern Concordance”* | [🖼️ View Image](./society-for-ethnopharmacology-secon2025/poster-presenter-recognition.jpeg) |
+| **Delegate**<br>_12th Convention (SECON 2025)_ | Jamia Hamdard & Society for Ethnopharmacology India | October 30–31, 2025 | Prof Pulok K. Mukherjee (SFE)<br>Prof Sayeed Ahmad (CoE UM) | Active engagement with research sessions, botanical safety, and drug standardization | [🖼️ View Image](./society-for-ethnopharmacology-secon2025/delegate-participation.jpeg) |
+| **Competitor**<br>_Unani Aahar Article Writing_ | Centre of Excellence in Unani Medicine, Jamia Hamdard | September 25, 2025 | Prof Sayeed Ahmad (Director CoE) | Scientific article writing and literature review on traditional dietetics (Unani Aahar) concepts | [🖼️ View Image](./jamia-hamdard-coeum/unani-aahar-article-writing-participation.jpeg) |
 
 ---
 
 ### 3. Volunteering, Leadership & Sustainability
 
-* **World Pharmacists Day Volunteer** — [jamia-hamdard-sper-pharmakon/world-pharmacists-day-volunteer-appreciation.jpeg](./jamia-hamdard-sper-pharmakon/world-pharmacists-day-volunteer-appreciation.jpeg)
-  * **Details:** School of Pharmaceutical Education & Research (SPER), Jamia Hamdard | September 23–25, 2024
-  * **Authority:** Conducted by SPER Pharmakon Committee | Prof. (Dr.) Farhan Jalees Ahmad (Dean) | Prof. (Dr.) Zeenat Iqbal
-  * **Focus:** Health awareness campaigns, community event logistics, and pharmacy public relations.
-
-* **SECON 2025 Conference Volunteer** — [society-for-ethnopharmacology-secon2025/volunteer-appreciation.jpeg](./society-for-ethnopharmacology-secon2025/volunteer-appreciation.jpeg)
-  * **Details:** 12th Convention of Society for Ethnopharmacology (SECON 2025) | October 30–31, 2025
-  * **Authority:** Prof Pulok K. Mukherjee (SFE India) | Prof Sayeed Ahmad (Director CoE UM, Jamia Hamdard)
-  * **Focus:** Event operations, registration desk logistics, guest relations, and session coordination.
-
-* **Snow Frost Hackathon Volunteer** — [spark-tech-ai-hub/snow-frost-hackathon-volunteer-appreciation.jpeg](./spark-tech-ai-hub/snow-frost-hackathon-volunteer-appreciation.jpeg)
-  * **Details:** Spark Tech AI Hub | Issued: January 17, 2026
-  * **Authority:** Fardeen Ansari (CEO & Founder)
-  * **Focus:** Operational support, check-in logistics, and coordination for technical innovation tracks.
-
-* **Miyawaki Forest Plantation Drive** — [cosmo-foundation/miyawaki-forest-plantation-drive-participation.jpeg](./cosmo-foundation/miyawaki-forest-plantation-drive-participation.jpeg)
-  * **Details:** Cosmo Foundation (Cosmo First Limited) & BSF | Issued: October 19, 2024
-  * **Authority:** Held at 95 BN BSF Campus | Ashok Jaipuria (Chairman & MD) | Yamini Kumar Jaipuria (Managing Trustee)
-  * **Focus:** Environmental sustainability, micro-forest planting, and community service.
+| Role & Initiative / Event | Organizer | Date | Verification & Signatory | Core Focus & Impact | Document Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Committee Volunteer**<br>_World Pharmacists Day Celebration_ | School of Pharmaceutical Education & Research, Jamia Hamdard | September 23–25, 2024 | Prof. (Dr.) Farhan Jalees Ahmad (Dean)<br>Prof. (Dr.) Zeenat Iqbal | Health awareness outreach, community event logistics, and pharmacy public relations | [🖼️ View Image](./jamia-hamdard-sper-pharmakon/world-pharmacists-day-volunteer-appreciation.jpeg) |
+| **Conference Volunteer**<br>_12th Convention (SECON 2025)_ | Jamia Hamdard & Society for Ethnopharmacology India | October 30–31, 2025 | Prof Pulok K. Mukherjee (SFE)<br>Prof Sayeed Ahmad (CoE UM) | Event operations, registration desk logistics, guest relations, and session coordination | [🖼️ View Image](./society-for-ethnopharmacology-secon2025/volunteer-appreciation.jpeg) |
+| **Event Volunteer**<br>_Snow Frost Hackathon_ | Spark Tech AI Hub | January 17, 2026 | Fardeen Ansari (CEO & Founder) | Operational support, participant check-in logistics, and hackathon track coordination | [🖼️ View Image](./spark-tech-ai-hub/snow-frost-hackathon-volunteer-appreciation.jpeg) |
+| **Sustainability Participant**<br>_Miyawaki Forest Plantation Drive_ | Cosmo Foundation & Border Security Force (BSF) | October 19, 2024 | Ashok Jaipuria (Chairman & MD)<br>Yamini Kumar Jaipuria | Planted Miyawaki micro-forests at 95 BN BSF Campus for local biodiversity restoration | [🖼️ View Image](./cosmo-foundation/miyawaki-forest-plantation-drive-participation.jpeg) |
 
 ---
 
