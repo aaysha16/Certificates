@@ -1,4 +1,4 @@
-<img width="100%" alt="Aaysha Ali" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0d9488&height=210&section=header&text=Aaysha%20Ali&fontColor=ffffff&fontSize=54&fontAlignY=40&desc=Certifications%20%26%20Credentials&descSize=18&descAlignY=62" />
+<img width="100%" alt="Aaysha Ali" src="./.github/header.svg" />
 
 <br>
 
@@ -99,4 +99,4 @@
 
 ---
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f766e&height=120&section=footer" />
+<img width="100%" alt="" src="./.github/footer.svg" />
